@@ -1,11 +1,6 @@
-## My Project
+## Amazon Q Business - Custom Connectors
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Sample showing how Amazon Q Business can seamlessly integrate with your data sources using the custom data connector.
 
 ## Security
 
